@@ -1,4 +1,5 @@
 # Technetium
+<img src="https://github.com/Alex313031/Technetium/tree/main/logos/product_logo_64.png">
 # Chromium fork for Linux, named after radioactive element No. 43
 -Always built with latest x64 'Trunk' build of chromium \
 -Intended to behave the most like Google Chrome. \
