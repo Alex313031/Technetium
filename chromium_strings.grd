@@ -318,7 +318,7 @@ If you update this file, be sure also to update google_chrome_strings.grd. -->
         </message>
       </if>
       <message name="IDS_ACCNAME_APP" desc="The accessible name for the app menu.">
-        Chromium
+        Technetium
       </message>
       <!-- Hung Browser Detector -->
       <if expr="is_win">
