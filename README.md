@@ -1,6 +1,8 @@
 # Technetium
 <img src="https://github.com/Alex313031/Technetium/blob/main/logos/product_logo_64.png">
 
+#NOTE: Deprecated; is now "Thorium" at > https://github.com/Alex313031/Thorium
+
 # Chromium fork for Linux, named after radioactive element No. 43
 -Always built with latest x64 'Trunk' build of chromium \
 -Intended to behave the most like Google Chrome. \
